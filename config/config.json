@@ -1,0 +1,6 @@
+{
+  "prod" : { "url" : "http://el4188.ebc.local:4010/" },
+
+  "dr" : { "url" : "http://el4441.ebc.local:4010/" }
+}
+
